@@ -33,3 +33,8 @@
 The data used was an oper-source data set from instacart and complemented with CF's program.
 
 The visualization made can be found in the "Visualizations" within "04 Analysis" folder.
+
+
+##### note: 
+- Folders "02 Data/Original Data" and "02 Data/Prepared Data" was left aside as it's too heavy to upload, nonetheless the generated dataframe can be seen in the scripts
+- Folder "05 Sent to Client" was not uploaded by the shell as it does not have content
